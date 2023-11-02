@@ -1,5 +1,5 @@
 hello future:)
 some changes
-123
+line from user2
 good bye:(
 line from user1
