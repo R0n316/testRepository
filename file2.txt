@@ -1,3 +1,4 @@
 goodbye:)
 456789
 line for user2
+another line from user2
