@@ -3,3 +3,4 @@ some changes
 line from user2
 good bye:(
 line from user1
+another line from user1
